@@ -23,3 +23,4 @@ Following diagram is application's mediasoup architecture:
 ## License
 
 This application is [MIT License](LICENSE)
+##
