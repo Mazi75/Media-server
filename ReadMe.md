@@ -6,7 +6,7 @@ This software includes a selective forwarding unit server written in Rust and a 
 
 In order to read more about server take a look at [here](server).
 
-## React
+## Client
 
 In order to read more about web-app take a look at [here](react).
 
